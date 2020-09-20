@@ -1,4 +1,4 @@
-![osoykan](https://githubline.herokuapp.com/api/contributions?username=osoykan&years=2011,2012,2013,2014,2015,2016,2017,2018,2019,2020)
+![osoykan](https://githubline.herokuapp.com/api/contributions?username=osoykan&years=2014,2015,2016,2017,2018,2019,2020)
 <!--
 **osoykan/osoykan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
